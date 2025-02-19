@@ -1,0 +1,1784 @@
+2025-02-19 10:59:46 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\safin\eclipse-workspace\NinjaV6\testng.xml"
+2025-02-19 10:59:46 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: edge
+2025-02-19 10:59:46 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: firefox
+2025-02-19 10:59:46 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-19 10:59:46 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-19 10:59:47 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: chrome
+2025-02-19 10:59:47 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-19 10:59:49 DEBUG BaseClass:116 - WebDriver instance set successfully.
+2025-02-19 10:59:51 INFO  BaseClass:124 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-19 10:59:51 INFO  TC01_LaunchApplication:18 - Starting test: testLaunchApplication
+2025-02-19 10:59:51 DEBUG TC01_LaunchApplication:26 - Navigating to HomePage
+2025-02-19 10:59:51 DEBUG TC01_LaunchApplication:29 - Verifying homepage confirmation message.
+2025-02-19 10:59:51 INFO  TC01_LaunchApplication:31 - Received homepage confirmation message: Qafox.com
+2025-02-19 10:59:51 INFO  TC01_LaunchApplication:35 - Homepage confirmation message matched expected value.
+2025-02-19 10:59:51 INFO  TC01_LaunchApplication:46 - Test execution completed: testLaunchApplication
+2025-02-19 10:59:51 INFO  BaseClass:136 - Closing browser...
+2025-02-19 10:59:52 DEBUG BaseClass:116 - WebDriver instance set successfully.
+2025-02-19 10:59:52 DEBUG BaseClass:116 - WebDriver instance set successfully.
+2025-02-19 10:59:53 INFO  BaseClass:139 - Browser closed and WebDriver instance removed.
+2025-02-19 10:59:53 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: edge
+2025-02-19 10:59:53 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-19 10:59:54 DEBUG BaseClass:116 - WebDriver instance set successfully.
+2025-02-19 10:59:55 INFO  BaseClass:124 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-19 10:59:55 INFO  TC01_LaunchApplication:18 - Starting test: testLaunchApplication
+2025-02-19 10:59:55 DEBUG TC01_LaunchApplication:26 - Navigating to HomePage
+2025-02-19 10:59:55 DEBUG TC01_LaunchApplication:29 - Verifying homepage confirmation message.
+2025-02-19 10:59:55 INFO  TC01_LaunchApplication:31 - Received homepage confirmation message: Qafox.com
+2025-02-19 10:59:55 INFO  TC01_LaunchApplication:35 - Homepage confirmation message matched expected value.
+2025-02-19 10:59:55 INFO  TC01_LaunchApplication:46 - Test execution completed: testLaunchApplication
+2025-02-19 10:59:55 INFO  BaseClass:136 - Closing browser...
+2025-02-19 10:59:55 INFO  BaseClass:124 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-19 10:59:55 INFO  TC01_LaunchApplication:18 - Starting test: testLaunchApplication
+2025-02-19 10:59:55 DEBUG TC01_LaunchApplication:26 - Navigating to HomePage
+2025-02-19 10:59:55 DEBUG TC01_LaunchApplication:29 - Verifying homepage confirmation message.
+2025-02-19 10:59:55 INFO  TC01_LaunchApplication:31 - Received homepage confirmation message: Qafox.com
+2025-02-19 10:59:55 INFO  TC01_LaunchApplication:35 - Homepage confirmation message matched expected value.
+2025-02-19 10:59:55 INFO  TC01_LaunchApplication:46 - Test execution completed: testLaunchApplication
+2025-02-19 10:59:55 INFO  BaseClass:136 - Closing browser...
+2025-02-19 10:59:55 INFO  BaseClass:139 - Browser closed and WebDriver instance removed.
+2025-02-19 10:59:55 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: chrome
+2025-02-19 10:59:55 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-19 10:59:56 INFO  BaseClass:139 - Browser closed and WebDriver instance removed.
+2025-02-19 10:59:56 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: firefox
+2025-02-19 10:59:56 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-19 10:59:57 INFO  BaseClass:124 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-19 10:59:57 INFO  TC03_AddToCart:19 - Starting test: testAddToCart
+2025-02-19 10:59:57 DEBUG TC03_AddToCart:27 - Navigating to HomePage and selecting Laptops & Notebooks category.
+2025-02-19 10:59:57 DEBUG BaseClass:116 - WebDriver instance set successfully.
+2025-02-19 10:59:58 DEBUG TC03_AddToCart:31 - Selecting a product from the category.
+2025-02-19 10:59:59 DEBUG TC03_AddToCart:35 - Setting up delivery date and adding product to cart.
+2025-02-19 10:59:59 INFO  BaseClass:124 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-19 10:59:59 INFO  TC03_AddToCart:19 - Starting test: testAddToCart
+2025-02-19 10:59:59 DEBUG TC03_AddToCart:27 - Navigating to HomePage and selecting Laptops & Notebooks category.
+2025-02-19 11:00:00 DEBUG TC03_AddToCart:40 - Validating success message.
+2025-02-19 11:00:00 INFO  TC03_AddToCart:42 - Success message status: true
+2025-02-19 11:00:00 INFO  TC03_AddToCart:46 - Product successfully added to cart.
+2025-02-19 11:00:00 INFO  TC03_AddToCart:57 - Test execution completed: testAddToCart
+2025-02-19 11:00:00 INFO  BaseClass:136 - Closing browser...
+2025-02-19 11:00:01 DEBUG TC03_AddToCart:31 - Selecting a product from the category.
+2025-02-19 11:00:01 DEBUG BaseClass:116 - WebDriver instance set successfully.
+2025-02-19 11:00:01 INFO  BaseClass:139 - Browser closed and WebDriver instance removed.
+2025-02-19 11:00:01 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: edge
+2025-02-19 11:00:01 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-19 11:00:03 DEBUG BaseClass:116 - WebDriver instance set successfully.
+2025-02-19 11:00:03 DEBUG TC03_AddToCart:35 - Setting up delivery date and adding product to cart.
+2025-02-19 11:00:03 DEBUG TC03_AddToCart:40 - Validating success message.
+2025-02-19 11:00:04 INFO  TC03_AddToCart:42 - Success message status: true
+2025-02-19 11:00:04 INFO  TC03_AddToCart:46 - Product successfully added to cart.
+2025-02-19 11:00:04 INFO  TC03_AddToCart:57 - Test execution completed: testAddToCart
+2025-02-19 11:00:04 INFO  BaseClass:136 - Closing browser...
+2025-02-19 11:00:04 INFO  BaseClass:139 - Browser closed and WebDriver instance removed.
+2025-02-19 11:00:04 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: chrome
+2025-02-19 11:00:04 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-19 11:00:05 INFO  BaseClass:124 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-19 11:00:05 INFO  TC03_AddToCart:19 - Starting test: testAddToCart
+2025-02-19 11:00:05 DEBUG TC03_AddToCart:27 - Navigating to HomePage and selecting Laptops & Notebooks category.
+2025-02-19 11:00:06 DEBUG BaseClass:116 - WebDriver instance set successfully.
+2025-02-19 11:00:06 INFO  BaseClass:124 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-19 11:00:06 DEBUG TC03_AddToCart:31 - Selecting a product from the category.
+2025-02-19 11:00:06 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:00:06 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:00:06 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:00:07 DEBUG TC03_AddToCart:35 - Setting up delivery date and adding product to cart.
+2025-02-19 11:00:07 DEBUG TC03_AddToCart:40 - Validating success message.
+2025-02-19 11:00:08 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:00:08 INFO  TC03_AddToCart:42 - Success message status: true
+2025-02-19 11:00:08 INFO  TC03_AddToCart:46 - Product successfully added to cart.
+2025-02-19 11:00:08 INFO  TC03_AddToCart:57 - Test execution completed: testAddToCart
+2025-02-19 11:00:08 INFO  BaseClass:136 - Closing browser...
+2025-02-19 11:00:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:00:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:00:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:00:08 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:00:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:00:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:00:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:00:08 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:00:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:00:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:00:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:00:08 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:00:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:00:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:00:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:00:08 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:00:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:00:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:00:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:00:08 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:00:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:00:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:00:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:00:08 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:00:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:00:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:00:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:00:08 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:00:08 INFO  BaseClass:124 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-19 11:00:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:00:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:00:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:00:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:00:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:00:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:00:08 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:00:08 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:00:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:00:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:00:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:00:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:00:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:00:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:00:08 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:00:08 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:00:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:00:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:00:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:00:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:00:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:00:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:00:08 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:00:08 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:00:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:00:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:00:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:00:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:00:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:00:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:00:08 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:00:08 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:00:08 INFO  TC02_Login:24 - Starting test: testLogin with Email: goodmorning@gmail.com and Password: test@1234
+2025-02-19 11:00:08 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-19 11:00:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:00:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:00:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:00:09 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:00:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:00:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:00:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:00:09 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:00:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:00:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:00:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:00:09 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:00:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:00:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:00:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:00:09 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:00:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:00:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:00:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:00:09 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:00:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:00:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:00:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:00:09 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:00:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:00:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:00:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:00:09 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:00:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:00:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:00:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:00:09 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:00:09 INFO  TC02_Login:24 - Starting test: testLogin with Email: goodmorning@gmail.com and Password: test@1234
+2025-02-19 11:00:09 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-19 11:00:09 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-19 11:00:10 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-19 11:00:10 INFO  BaseClass:139 - Browser closed and WebDriver instance removed.
+2025-02-19 11:00:10 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: firefox
+2025-02-19 11:00:10 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-19 11:00:11 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-19 11:00:11 INFO  TC02_Login:46 - Login success status: true
+2025-02-19 11:00:11 INFO  TC02_Login:50 - Login verification passed.
+2025-02-19 11:00:11 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-19 11:00:11 INFO  TC02_Login:46 - Login success status: true
+2025-02-19 11:00:11 INFO  TC02_Login:50 - Login verification passed.
+2025-02-19 11:00:12 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-19 11:00:12 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-19 11:00:12 INFO  TC02_Login:24 - Starting test: testLogin with Email: test121@test.com and Password: test123
+2025-02-19 11:00:12 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-19 11:00:12 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-19 11:00:12 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-19 11:00:12 INFO  TC02_Login:24 - Starting test: testLogin with Email: test121@test.com and Password: test123
+2025-02-19 11:00:12 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-19 11:00:13 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-19 11:00:13 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-19 11:00:14 DEBUG BaseClass:116 - WebDriver instance set successfully.
+2025-02-19 11:00:15 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-19 11:00:15 INFO  TC02_Login:46 - Login success status: true
+2025-02-19 11:00:15 INFO  TC02_Login:50 - Login verification passed.
+2025-02-19 11:00:15 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-19 11:00:15 INFO  TC02_Login:46 - Login success status: true
+2025-02-19 11:00:15 INFO  TC02_Login:50 - Login verification passed.
+2025-02-19 11:00:16 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-19 11:00:16 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-19 11:00:16 INFO  TC02_Login:24 - Starting test: testLogin with Email: sid@cloudberry.services and Password: Test123
+2025-02-19 11:00:16 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-19 11:00:17 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-19 11:00:17 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-19 11:00:17 INFO  TC02_Login:24 - Starting test: testLogin with Email: sid@cloudberry.services and Password: Test123
+2025-02-19 11:00:17 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-19 11:00:17 INFO  BaseClass:124 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-19 11:00:17 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:00:17 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:00:17 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:00:17 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:00:17 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:00:17 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:00:17 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:00:17 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:00:17 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:00:17 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:00:17 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:00:17 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:00:17 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:00:17 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:00:17 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:00:17 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:00:17 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:00:17 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:00:17 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:00:17 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:00:17 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:00:17 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:00:17 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:00:17 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:00:17 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:00:17 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:00:17 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:00:17 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:00:17 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:00:17 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:00:17 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:00:17 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:00:17 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:00:17 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:00:17 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:00:17 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:00:17 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:00:17 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:00:17 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:00:17 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:00:17 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:00:17 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:00:17 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:00:17 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:00:17 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:00:17 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:00:17 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:00:17 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:00:17 INFO  TC02_Login:24 - Starting test: testLogin with Email: goodmorning@gmail.com and Password: test@1234
+2025-02-19 11:00:17 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-19 11:00:17 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-19 11:00:18 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-19 11:00:18 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-19 11:00:20 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-19 11:00:20 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-19 11:00:20 INFO  TC02_Login:46 - Login success status: true
+2025-02-19 11:00:20 INFO  TC02_Login:50 - Login verification passed.
+2025-02-19 11:00:20 INFO  TC02_Login:46 - Login success status: true
+2025-02-19 11:00:20 INFO  TC02_Login:50 - Login verification passed.
+2025-02-19 11:00:20 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-19 11:00:20 INFO  TC02_Login:46 - Login success status: true
+2025-02-19 11:00:20 INFO  TC02_Login:50 - Login verification passed.
+2025-02-19 11:00:21 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-19 11:00:21 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-19 11:00:21 INFO  TC02_Login:24 - Starting test: testLogin with Email: otisdog22@yahoo.com and Password: 1234QWERT
+2025-02-19 11:00:21 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-19 11:00:21 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-19 11:00:21 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-19 11:00:21 INFO  TC02_Login:24 - Starting test: testLogin with Email: otisdog22@yahoo.com and Password: 1234QWERT
+2025-02-19 11:00:21 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-19 11:00:21 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-19 11:00:21 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-19 11:00:21 INFO  TC02_Login:24 - Starting test: testLogin with Email: test121@test.com and Password: test123
+2025-02-19 11:00:21 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-19 11:00:22 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-19 11:00:22 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-19 11:00:22 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-19 11:00:24 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-19 11:00:24 INFO  TC02_Login:46 - Login success status: true
+2025-02-19 11:00:24 INFO  TC02_Login:50 - Login verification passed.
+2025-02-19 11:00:24 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-19 11:00:24 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-19 11:00:24 INFO  TC02_Login:46 - Login success status: true
+2025-02-19 11:00:24 INFO  TC02_Login:46 - Login success status: true
+2025-02-19 11:00:24 INFO  TC02_Login:50 - Login verification passed.
+2025-02-19 11:00:24 INFO  TC02_Login:50 - Login verification passed.
+2025-02-19 11:00:25 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-19 11:00:25 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-19 11:00:25 INFO  TC02_Login:24 - Starting test: testLogin with Email: shalaka.dongre@gmail.com and Password: Test123!
+2025-02-19 11:00:25 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-19 11:00:26 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-19 11:00:26 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-19 11:00:26 INFO  TC02_Login:24 - Starting test: testLogin with Email: sid@cloudberry.services and Password: Test123
+2025-02-19 11:00:26 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-19 11:00:26 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-19 11:00:26 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-19 11:00:26 INFO  TC02_Login:24 - Starting test: testLogin with Email: shalaka.dongre@gmail.com and Password: Test123!
+2025-02-19 11:00:26 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-19 11:00:26 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-19 11:00:26 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-19 11:00:27 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-19 11:00:28 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-19 11:00:28 INFO  TC02_Login:46 - Login success status: true
+2025-02-19 11:00:28 INFO  TC02_Login:50 - Login verification passed.
+2025-02-19 11:00:28 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-19 11:00:28 INFO  TC02_Login:46 - Login success status: true
+2025-02-19 11:00:28 INFO  TC02_Login:50 - Login verification passed.
+2025-02-19 11:00:29 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-19 11:00:29 INFO  TC02_Login:46 - Login success status: true
+2025-02-19 11:00:29 INFO  TC02_Login:50 - Login verification passed.
+2025-02-19 11:00:29 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-19 11:00:29 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-19 11:00:29 INFO  BaseClass:136 - Closing browser...
+2025-02-19 11:00:29 INFO  BaseClass:139 - Browser closed and WebDriver instance removed.
+2025-02-19 11:00:29 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: chrome
+2025-02-19 11:00:29 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-19 11:00:30 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-19 11:00:30 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-19 11:00:30 INFO  TC02_Login:24 - Starting test: testLogin with Email: otisdog22@yahoo.com and Password: 1234QWERT
+2025-02-19 11:00:30 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-19 11:00:30 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-19 11:00:30 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-19 11:00:30 INFO  BaseClass:136 - Closing browser...
+2025-02-19 11:00:30 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-19 11:00:31 DEBUG BaseClass:116 - WebDriver instance set successfully.
+2025-02-19 11:00:31 INFO  BaseClass:139 - Browser closed and WebDriver instance removed.
+2025-02-19 11:00:31 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: edge
+2025-02-19 11:00:31 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-19 11:00:32 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-19 11:00:32 INFO  TC02_Login:46 - Login success status: true
+2025-02-19 11:00:32 INFO  TC02_Login:50 - Login verification passed.
+2025-02-19 11:00:33 DEBUG BaseClass:116 - WebDriver instance set successfully.
+2025-02-19 11:00:33 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-19 11:00:33 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-19 11:00:33 INFO  TC02_Login:24 - Starting test: testLogin with Email: shalaka.dongre@gmail.com and Password: Test123!
+2025-02-19 11:00:33 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-19 11:00:33 INFO  BaseClass:124 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-19 11:00:33 INFO  TC04_CompletePurchase:23 - Starting test: testCompletePurchase
+2025-02-19 11:00:33 DEBUG TC04_CompletePurchase:31 - Navigating to HomePage and selecting Laptops & Notebooks category.
+2025-02-19 11:00:34 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-19 11:00:34 DEBUG TC04_CompletePurchase:35 - Selecting a product from the category.
+2025-02-19 11:00:35 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-19 11:00:35 INFO  TC02_Login:46 - Login success status: true
+2025-02-19 11:00:35 INFO  TC02_Login:50 - Login verification passed.
+2025-02-19 11:00:35 DEBUG TC04_CompletePurchase:39 - Setting up delivery date and adding product to cart.
+2025-02-19 11:00:35 INFO  BaseClass:124 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-19 11:00:35 INFO  TC04_CompletePurchase:23 - Starting test: testCompletePurchase
+2025-02-19 11:00:35 DEBUG TC04_CompletePurchase:31 - Navigating to HomePage and selecting Laptops & Notebooks category.
+2025-02-19 11:00:35 DEBUG TC04_CompletePurchase:44 - Proceeding to checkout.
+2025-02-19 11:00:36 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-19 11:00:36 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-19 11:00:36 INFO  BaseClass:136 - Closing browser...
+2025-02-19 11:00:36 DEBUG TC04_CompletePurchase:35 - Selecting a product from the category.
+2025-02-19 11:00:37 DEBUG TC04_CompletePurchase:47 - Logging in to complete purchase.
+2025-02-19 11:00:38 DEBUG TC04_CompletePurchase:39 - Setting up delivery date and adding product to cart.
+2025-02-19 11:00:38 DEBUG TC04_CompletePurchase:53 - Completing checkout process.
+2025-02-19 11:00:38 INFO  BaseClass:139 - Browser closed and WebDriver instance removed.
+2025-02-19 11:00:38 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: firefox
+2025-02-19 11:00:38 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-19 11:00:38 DEBUG TC04_CompletePurchase:44 - Proceeding to checkout.
+2025-02-19 11:00:41 DEBUG BaseClass:116 - WebDriver instance set successfully.
+2025-02-19 11:00:44 INFO  BaseClass:124 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-19 11:00:44 INFO  TC04_CompletePurchase:23 - Starting test: testCompletePurchase
+2025-02-19 11:00:44 DEBUG TC04_CompletePurchase:31 - Navigating to HomePage and selecting Laptops & Notebooks category.
+2025-02-19 11:00:45 DEBUG TC04_CompletePurchase:35 - Selecting a product from the category.
+2025-02-19 11:00:46 DEBUG TC04_CompletePurchase:39 - Setting up delivery date and adding product to cart.
+2025-02-19 11:00:46 DEBUG TC04_CompletePurchase:44 - Proceeding to checkout.
+2025-02-19 11:00:47 DEBUG TC04_CompletePurchase:47 - Logging in to complete purchase.
+2025-02-19 11:00:48 DEBUG TC04_CompletePurchase:53 - Completing checkout process.
+2025-02-19 11:01:39 ERROR TC04_CompletePurchase:71 - Unexpected error occurred during test execution: element not interactable
+  (Session info: MicrosoftEdge=133.0.3065.69)
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [784054d3e5e9fbbe51ccaff742a9df89, clickElement {id=f.6A00D373AA72EAE9593DF3A01EC102B9.d.FF602AA68DEAF8D776873007413E18DA.e.2963}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 133.0.3065.69, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:54941}, msedge: {msedgedriverVersion: 133.0.3065.69 (c3f010c11f3e..., userDataDir: C:\Users\safin\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.2.90:4444/sess..., se:cdpVersion: 133.0.3065.69, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[RemoteWebDriver: MicrosoftEdge on Windows 11 (784054d3e5e9fbbe51ccaff742a9df89)] -> xpath: //strong[normalize-space()='Checkout']]
+Session ID: 784054d3e5e9fbbe51ccaff742a9df89
+org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: MicrosoftEdge=133.0.3065.69)
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [784054d3e5e9fbbe51ccaff742a9df89, clickElement {id=f.6A00D373AA72EAE9593DF3A01EC102B9.d.FF602AA68DEAF8D776873007413E18DA.e.2963}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 133.0.3065.69, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:54941}, msedge: {msedgedriverVersion: 133.0.3065.69 (c3f010c11f3e..., userDataDir: C:\Users\safin\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.2.90:4444/sess..., se:cdpVersion: 133.0.3065.69, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[RemoteWebDriver: MicrosoftEdge on Windows 11 (784054d3e5e9fbbe51ccaff742a9df89)] -> xpath: //strong[normalize-space()='Checkout']]
+Session ID: 784054d3e5e9fbbe51ccaff742a9df89
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.TracedCommandExecutor.execute(TracedCommandExecutor.java:53) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:76) ~[selenium-remote-driver-4.28.1.jar:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51) ~[selenium-support-4.28.1.jar:?]
+	at jdk.proxy2/jdk.proxy2.$Proxy27.click(Unknown Source) ~[?:?]
+	at pageObjects.AddToCartPage.goToCheckout(AddToCartPage.java:57) ~[test-classes/:?]
+	at testCases.TC04_CompletePurchase.testCompletePurchase(TC04_CompletePurchase.java:45) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) ~[?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1575) [?:?]
+2025-02-19 11:01:39 WARN  RetryAnalyzer:18 - Retrying test 'testCompletePurchase' (1 of 2)
+2025-02-19 11:01:39 INFO  TC04_CompletePurchase:23 - Starting test: testCompletePurchase
+2025-02-19 11:01:39 DEBUG TC04_CompletePurchase:31 - Navigating to HomePage and selecting Laptops & Notebooks category.
+2025-02-19 11:01:40 DEBUG TC04_CompletePurchase:35 - Selecting a product from the category.
+2025-02-19 11:01:45 DEBUG TC04_CompletePurchase:57 - Verifying order confirmation.
+2025-02-19 11:01:46 INFO  TC04_CompletePurchase:60 - Order confirmation status: true
+2025-02-19 11:01:46 INFO  TC04_CompletePurchase:64 - Order successfully confirmed.
+2025-02-19 11:01:46 INFO  TC04_CompletePurchase:75 - Test execution completed: testCompletePurchase
+2025-02-19 11:01:46 INFO  BaseClass:136 - Closing browser...
+2025-02-19 11:01:47 INFO  BaseClass:139 - Browser closed and WebDriver instance removed.
+2025-02-19 11:01:54 DEBUG TC04_CompletePurchase:57 - Verifying order confirmation.
+2025-02-19 11:01:55 INFO  TC04_CompletePurchase:60 - Order confirmation status: true
+2025-02-19 11:01:55 INFO  TC04_CompletePurchase:64 - Order successfully confirmed.
+2025-02-19 11:01:55 INFO  TC04_CompletePurchase:75 - Test execution completed: testCompletePurchase
+2025-02-19 11:01:55 INFO  BaseClass:136 - Closing browser...
+2025-02-19 11:01:56 INFO  BaseClass:139 - Browser closed and WebDriver instance removed.
+2025-02-19 11:02:40 ERROR TC04_CompletePurchase:71 - Unexpected error occurred during test execution: element not interactable
+  (Session info: MicrosoftEdge=133.0.3065.69)
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [784054d3e5e9fbbe51ccaff742a9df89, clickElement {id=f.6A00D373AA72EAE9593DF3A01EC102B9.d.27D9EF3B0674570F48021583528B1D18.e.3323}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 133.0.3065.69, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:54941}, msedge: {msedgedriverVersion: 133.0.3065.69 (c3f010c11f3e..., userDataDir: C:\Users\safin\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.2.90:4444/sess..., se:cdpVersion: 133.0.3065.69, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[RemoteWebDriver: MicrosoftEdge on Windows 11 (784054d3e5e9fbbe51ccaff742a9df89)] -> xpath: //a[normalize-space()='HP LP3065']]
+Session ID: 784054d3e5e9fbbe51ccaff742a9df89
+org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: MicrosoftEdge=133.0.3065.69)
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [784054d3e5e9fbbe51ccaff742a9df89, clickElement {id=f.6A00D373AA72EAE9593DF3A01EC102B9.d.27D9EF3B0674570F48021583528B1D18.e.3323}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 133.0.3065.69, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:54941}, msedge: {msedgedriverVersion: 133.0.3065.69 (c3f010c11f3e..., userDataDir: C:\Users\safin\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.2.90:4444/sess..., se:cdpVersion: 133.0.3065.69, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[RemoteWebDriver: MicrosoftEdge on Windows 11 (784054d3e5e9fbbe51ccaff742a9df89)] -> xpath: //a[normalize-space()='HP LP3065']]
+Session ID: 784054d3e5e9fbbe51ccaff742a9df89
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.TracedCommandExecutor.execute(TracedCommandExecutor.java:53) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:76) ~[selenium-remote-driver-4.28.1.jar:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51) ~[selenium-support-4.28.1.jar:?]
+	at jdk.proxy2/jdk.proxy2.$Proxy27.click(Unknown Source) ~[?:?]
+	at pageObjects.CategoryPage.selectProduct(CategoryPage.java:17) ~[test-classes/:?]
+	at testCases.TC04_CompletePurchase.testCompletePurchase(TC04_CompletePurchase.java:37) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.retryFailed(TestInvoker.java:269) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:76) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) ~[?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1575) [?:?]
+2025-02-19 11:02:40 WARN  RetryAnalyzer:18 - Retrying test 'testCompletePurchase' (2 of 2)
+2025-02-19 11:02:40 INFO  TC04_CompletePurchase:23 - Starting test: testCompletePurchase
+2025-02-19 11:02:40 DEBUG TC04_CompletePurchase:31 - Navigating to HomePage and selecting Laptops & Notebooks category.
+2025-02-19 11:02:42 DEBUG TC04_CompletePurchase:35 - Selecting a product from the category.
+2025-02-19 11:03:43 ERROR TC04_CompletePurchase:71 - Unexpected error occurred during test execution: Unable to execute request for an existing session: java.io.IOException: HTTP/1.1 header parser received no bytes
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [784054d3e5e9fbbe51ccaff742a9df89, clickElement {id=f.6A00D373AA72EAE9593DF3A01EC102B9.d.D1C992A14F60142BF71718B797935764.e.4050}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 133.0.3065.69, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:54941}, msedge: {msedgedriverVersion: 133.0.3065.69 (c3f010c11f3e..., userDataDir: C:\Users\safin\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.2.90:4444/sess..., se:cdpVersion: 133.0.3065.69, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[RemoteWebDriver: MicrosoftEdge on Windows 11 (784054d3e5e9fbbe51ccaff742a9df89)] -> xpath: //a[normalize-space()='HP LP3065']]
+Session ID: 784054d3e5e9fbbe51ccaff742a9df89
+org.openqa.selenium.WebDriverException: Unable to execute request for an existing session: java.io.IOException: HTTP/1.1 header parser received no bytes
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [784054d3e5e9fbbe51ccaff742a9df89, clickElement {id=f.6A00D373AA72EAE9593DF3A01EC102B9.d.D1C992A14F60142BF71718B797935764.e.4050}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 133.0.3065.69, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:54941}, msedge: {msedgedriverVersion: 133.0.3065.69 (c3f010c11f3e..., userDataDir: C:\Users\safin\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.2.90:4444/sess..., se:cdpVersion: 133.0.3065.69, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[RemoteWebDriver: MicrosoftEdge on Windows 11 (784054d3e5e9fbbe51ccaff742a9df89)] -> xpath: //a[normalize-space()='HP LP3065']]
+Session ID: 784054d3e5e9fbbe51ccaff742a9df89
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.TracedCommandExecutor.execute(TracedCommandExecutor.java:53) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:76) ~[selenium-remote-driver-4.28.1.jar:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51) ~[selenium-support-4.28.1.jar:?]
+	at jdk.proxy2/jdk.proxy2.$Proxy27.click(Unknown Source) ~[?:?]
+	at pageObjects.CategoryPage.selectProduct(CategoryPage.java:17) ~[test-classes/:?]
+	at testCases.TC04_CompletePurchase.testCompletePurchase(TC04_CompletePurchase.java:37) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.retryFailed(TestInvoker.java:269) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:76) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) ~[?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1575) [?:?]
+2025-02-19 11:03:43 INFO  BaseClass:136 - Closing browser...
+2025-02-19 11:03:43 ERROR BaseClass:142 - Error while closing the browser: Unable to execute request for an existing session: java.net.ConnectException
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [784054d3e5e9fbbe51ccaff742a9df89, quit {}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 133.0.3065.69, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:54941}, msedge: {msedgedriverVersion: 133.0.3065.69 (c3f010c11f3e..., userDataDir: C:\Users\safin\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.2.90:4444/sess..., se:cdpVersion: 133.0.3065.69, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 784054d3e5e9fbbe51ccaff742a9df89
+org.openqa.selenium.WebDriverException: Unable to execute request for an existing session: java.net.ConnectException
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [784054d3e5e9fbbe51ccaff742a9df89, quit {}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 133.0.3065.69, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:54941}, msedge: {msedgedriverVersion: 133.0.3065.69 (c3f010c11f3e..., userDataDir: C:\Users\safin\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.2.90:4444/sess..., se:cdpVersion: 133.0.3065.69, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 784054d3e5e9fbbe51ccaff742a9df89
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.TracedCommandExecutor.execute(TracedCommandExecutor.java:53) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:618) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:622) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.quit(RemoteWebDriver.java:446) ~[selenium-remote-driver-4.28.1.jar:?]
+	at testBase.BaseClass.closeApp(BaseClass.java:137) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeAfterClassConfigurations(TestMethodWorker.java:238) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeAfterClassMethods(TestMethodWorker.java:223) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:137) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) ~[?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1575) [?:?]
+2025-02-19 11:25:50 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\safin\eclipse-workspace\NinjaV6\testng.xml"
+2025-02-19 11:25:51 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: firefox
+2025-02-19 11:25:51 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: chrome
+2025-02-19 11:25:51 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: edge
+2025-02-19 11:25:51 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-19 11:25:51 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-19 11:25:51 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-19 11:25:53 DEBUG BaseClass:116 - WebDriver instance set successfully.
+2025-02-19 11:25:53 DEBUG BaseClass:116 - WebDriver instance set successfully.
+2025-02-19 11:25:56 INFO  BaseClass:124 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-19 11:25:56 INFO  TC01_LaunchApplication:18 - Starting test: testLaunchApplication
+2025-02-19 11:25:56 DEBUG TC01_LaunchApplication:26 - Navigating to HomePage
+2025-02-19 11:25:56 DEBUG TC01_LaunchApplication:29 - Verifying homepage confirmation message.
+2025-02-19 11:25:56 INFO  TC01_LaunchApplication:31 - Received homepage confirmation message: Qafox.com
+2025-02-19 11:25:56 INFO  TC01_LaunchApplication:35 - Homepage confirmation message matched expected value.
+2025-02-19 11:25:56 INFO  TC01_LaunchApplication:46 - Test execution completed: testLaunchApplication
+2025-02-19 11:25:56 INFO  BaseClass:136 - Closing browser...
+2025-02-19 11:25:56 INFO  BaseClass:124 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-19 11:25:56 INFO  TC01_LaunchApplication:18 - Starting test: testLaunchApplication
+2025-02-19 11:25:56 DEBUG TC01_LaunchApplication:26 - Navigating to HomePage
+2025-02-19 11:25:56 DEBUG TC01_LaunchApplication:29 - Verifying homepage confirmation message.
+2025-02-19 11:25:56 INFO  TC01_LaunchApplication:31 - Received homepage confirmation message: Qafox.com
+2025-02-19 11:25:56 INFO  TC01_LaunchApplication:35 - Homepage confirmation message matched expected value.
+2025-02-19 11:25:56 INFO  TC01_LaunchApplication:46 - Test execution completed: testLaunchApplication
+2025-02-19 11:25:56 INFO  BaseClass:136 - Closing browser...
+2025-02-19 11:25:56 DEBUG BaseClass:116 - WebDriver instance set successfully.
+2025-02-19 11:25:56 INFO  BaseClass:139 - Browser closed and WebDriver instance removed.
+2025-02-19 11:25:56 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: chrome
+2025-02-19 11:25:56 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-19 11:25:57 INFO  BaseClass:139 - Browser closed and WebDriver instance removed.
+2025-02-19 11:25:57 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: edge
+2025-02-19 11:25:57 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-19 11:25:58 DEBUG BaseClass:116 - WebDriver instance set successfully.
+2025-02-19 11:25:58 DEBUG BaseClass:116 - WebDriver instance set successfully.
+2025-02-19 11:25:59 INFO  BaseClass:124 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-19 11:25:59 INFO  TC01_LaunchApplication:18 - Starting test: testLaunchApplication
+2025-02-19 11:25:59 DEBUG TC01_LaunchApplication:26 - Navigating to HomePage
+2025-02-19 11:25:59 DEBUG TC01_LaunchApplication:29 - Verifying homepage confirmation message.
+2025-02-19 11:25:59 INFO  TC01_LaunchApplication:31 - Received homepage confirmation message: Qafox.com
+2025-02-19 11:25:59 INFO  TC01_LaunchApplication:35 - Homepage confirmation message matched expected value.
+2025-02-19 11:25:59 INFO  TC01_LaunchApplication:46 - Test execution completed: testLaunchApplication
+2025-02-19 11:25:59 INFO  BaseClass:136 - Closing browser...
+2025-02-19 11:26:00 INFO  BaseClass:124 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-19 11:26:00 INFO  TC03_AddToCart:19 - Starting test: testAddToCart
+2025-02-19 11:26:00 DEBUG TC03_AddToCart:27 - Navigating to HomePage and selecting Laptops & Notebooks category.
+2025-02-19 11:26:00 INFO  BaseClass:139 - Browser closed and WebDriver instance removed.
+2025-02-19 11:26:00 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: firefox
+2025-02-19 11:26:00 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-19 11:26:01 INFO  BaseClass:124 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-19 11:26:01 INFO  TC03_AddToCart:19 - Starting test: testAddToCart
+2025-02-19 11:26:01 DEBUG TC03_AddToCart:27 - Navigating to HomePage and selecting Laptops & Notebooks category.
+2025-02-19 11:26:01 DEBUG TC03_AddToCart:31 - Selecting a product from the category.
+2025-02-19 11:26:02 DEBUG TC03_AddToCart:31 - Selecting a product from the category.
+2025-02-19 11:26:02 DEBUG TC03_AddToCart:35 - Setting up delivery date and adding product to cart.
+2025-02-19 11:26:03 DEBUG TC03_AddToCart:40 - Validating success message.
+2025-02-19 11:26:03 DEBUG TC03_AddToCart:35 - Setting up delivery date and adding product to cart.
+2025-02-19 11:26:03 INFO  TC03_AddToCart:42 - Success message status: true
+2025-02-19 11:26:03 INFO  TC03_AddToCart:46 - Product successfully added to cart.
+2025-02-19 11:26:03 INFO  TC03_AddToCart:57 - Test execution completed: testAddToCart
+2025-02-19 11:26:03 INFO  BaseClass:136 - Closing browser...
+2025-02-19 11:26:03 DEBUG TC03_AddToCart:40 - Validating success message.
+2025-02-19 11:26:04 INFO  BaseClass:139 - Browser closed and WebDriver instance removed.
+2025-02-19 11:26:04 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: chrome
+2025-02-19 11:26:04 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-19 11:26:04 INFO  TC03_AddToCart:42 - Success message status: true
+2025-02-19 11:26:04 INFO  TC03_AddToCart:46 - Product successfully added to cart.
+2025-02-19 11:26:04 INFO  TC03_AddToCart:57 - Test execution completed: testAddToCart
+2025-02-19 11:26:04 INFO  BaseClass:136 - Closing browser...
+2025-02-19 11:26:04 DEBUG BaseClass:116 - WebDriver instance set successfully.
+2025-02-19 11:26:05 DEBUG BaseClass:116 - WebDriver instance set successfully.
+2025-02-19 11:26:05 INFO  BaseClass:139 - Browser closed and WebDriver instance removed.
+2025-02-19 11:26:05 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: edge
+2025-02-19 11:26:05 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-19 11:26:07 DEBUG BaseClass:116 - WebDriver instance set successfully.
+2025-02-19 11:26:07 INFO  BaseClass:124 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-19 11:26:07 INFO  TC03_AddToCart:19 - Starting test: testAddToCart
+2025-02-19 11:26:07 DEBUG TC03_AddToCart:27 - Navigating to HomePage and selecting Laptops & Notebooks category.
+2025-02-19 11:26:07 INFO  BaseClass:124 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-19 11:26:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:26:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:26:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:26:08 DEBUG TC03_AddToCart:31 - Selecting a product from the category.
+2025-02-19 11:26:09 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:26:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:26:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:26:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:26:09 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:26:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:26:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:26:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:26:09 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:26:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:26:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:26:09 DEBUG TC03_AddToCart:35 - Setting up delivery date and adding product to cart.
+2025-02-19 11:26:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:26:09 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:26:09 INFO  BaseClass:124 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-19 11:26:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:26:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:26:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:26:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:26:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:26:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:26:09 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:26:09 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:26:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:26:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:26:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:26:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:26:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:26:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:26:09 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:26:09 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:26:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:26:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:26:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:26:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:26:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:26:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:26:09 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:26:09 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:26:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:26:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:26:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:26:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:26:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:26:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:26:09 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:26:09 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:26:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:26:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:26:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:26:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:26:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:26:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:26:10 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:26:10 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:26:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:26:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:26:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:26:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:26:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:26:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:26:10 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:26:10 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:26:10 DEBUG TC03_AddToCart:40 - Validating success message.
+2025-02-19 11:26:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:26:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:26:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:26:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:26:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:26:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:26:10 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:26:10 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:26:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:26:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:26:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:26:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:26:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:26:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:26:10 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:26:10 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:26:10 INFO  TC02_Login:24 - Starting test: testLogin with Email: goodmorning@gmail.com and Password: test@1234
+2025-02-19 11:26:10 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-19 11:26:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:26:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:26:10 INFO  TC03_AddToCart:42 - Success message status: true
+2025-02-19 11:26:10 INFO  TC03_AddToCart:46 - Product successfully added to cart.
+2025-02-19 11:26:10 INFO  TC03_AddToCart:57 - Test execution completed: testAddToCart
+2025-02-19 11:26:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:26:10 INFO  BaseClass:136 - Closing browser...
+2025-02-19 11:26:10 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:26:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:26:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:26:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:26:10 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:26:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:26:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:26:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:26:10 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:26:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:26:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:26:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:26:10 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:26:10 INFO  TC02_Login:24 - Starting test: testLogin with Email: goodmorning@gmail.com and Password: test@1234
+2025-02-19 11:26:10 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-19 11:26:10 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-19 11:26:11 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-19 11:26:12 INFO  BaseClass:139 - Browser closed and WebDriver instance removed.
+2025-02-19 11:26:12 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: firefox
+2025-02-19 11:26:12 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-19 11:26:12 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-19 11:26:13 INFO  TC02_Login:46 - Login success status: true
+2025-02-19 11:26:13 INFO  TC02_Login:50 - Login verification passed.
+2025-02-19 11:26:13 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-19 11:26:13 INFO  TC02_Login:46 - Login success status: true
+2025-02-19 11:26:13 INFO  TC02_Login:50 - Login verification passed.
+2025-02-19 11:26:14 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-19 11:26:14 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-19 11:26:14 INFO  TC02_Login:24 - Starting test: testLogin with Email: test121@test.com and Password: test123
+2025-02-19 11:26:14 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-19 11:26:14 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-19 11:26:14 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-19 11:26:14 INFO  TC02_Login:24 - Starting test: testLogin with Email: test121@test.com and Password: test123
+2025-02-19 11:26:14 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-19 11:26:15 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-19 11:26:15 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-19 11:26:16 DEBUG BaseClass:116 - WebDriver instance set successfully.
+2025-02-19 11:26:16 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-19 11:26:17 INFO  TC02_Login:46 - Login success status: true
+2025-02-19 11:26:17 INFO  TC02_Login:50 - Login verification passed.
+2025-02-19 11:26:17 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-19 11:26:17 INFO  TC02_Login:46 - Login success status: true
+2025-02-19 11:26:17 INFO  TC02_Login:50 - Login verification passed.
+2025-02-19 11:26:18 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-19 11:26:18 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-19 11:26:18 INFO  TC02_Login:24 - Starting test: testLogin with Email: sid@cloudberry.services and Password: Test123
+2025-02-19 11:26:18 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-19 11:26:18 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-19 11:26:18 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-19 11:26:18 INFO  TC02_Login:24 - Starting test: testLogin with Email: sid@cloudberry.services and Password: Test123
+2025-02-19 11:26:18 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-19 11:26:19 INFO  BaseClass:124 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-19 11:26:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:26:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:26:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:26:19 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:26:19 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-19 11:26:19 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-19 11:26:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:26:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:26:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:26:19 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:26:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:26:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:26:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:26:19 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:26:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:26:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:26:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:26:19 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:26:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:26:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:26:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:26:19 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:26:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:26:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:26:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:26:19 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:26:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:26:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:26:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:26:19 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:26:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:26:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:26:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:26:19 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:26:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:26:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:26:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:26:19 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:26:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:26:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:26:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:26:19 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:26:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:26:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:26:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:26:19 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:26:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:26:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:26:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:26:19 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:26:19 INFO  TC02_Login:24 - Starting test: testLogin with Email: goodmorning@gmail.com and Password: test@1234
+2025-02-19 11:26:19 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-19 11:26:20 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-19 11:26:20 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-19 11:26:20 INFO  TC02_Login:46 - Login success status: true
+2025-02-19 11:26:20 INFO  TC02_Login:50 - Login verification passed.
+2025-02-19 11:26:21 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-19 11:26:21 INFO  TC02_Login:46 - Login success status: true
+2025-02-19 11:26:21 INFO  TC02_Login:50 - Login verification passed.
+2025-02-19 11:26:22 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-19 11:26:22 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-19 11:26:22 INFO  TC02_Login:24 - Starting test: testLogin with Email: otisdog22@yahoo.com and Password: 1234QWERT
+2025-02-19 11:26:22 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-19 11:26:22 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-19 11:26:22 INFO  TC02_Login:46 - Login success status: true
+2025-02-19 11:26:22 INFO  TC02_Login:50 - Login verification passed.
+2025-02-19 11:26:22 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-19 11:26:22 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-19 11:26:22 INFO  TC02_Login:24 - Starting test: testLogin with Email: otisdog22@yahoo.com and Password: 1234QWERT
+2025-02-19 11:26:22 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-19 11:26:22 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-19 11:26:23 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-19 11:26:23 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-19 11:26:23 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-19 11:26:23 INFO  TC02_Login:24 - Starting test: testLogin with Email: test121@test.com and Password: test123
+2025-02-19 11:26:23 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-19 11:26:24 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-19 11:26:24 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-19 11:26:24 INFO  TC02_Login:46 - Login success status: true
+2025-02-19 11:26:24 INFO  TC02_Login:50 - Login verification passed.
+2025-02-19 11:26:25 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-19 11:26:25 INFO  TC02_Login:46 - Login success status: true
+2025-02-19 11:26:25 INFO  TC02_Login:50 - Login verification passed.
+2025-02-19 11:26:25 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-19 11:26:25 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-19 11:26:25 INFO  TC02_Login:24 - Starting test: testLogin with Email: shalaka.dongre@gmail.com and Password: Test123!
+2025-02-19 11:26:25 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-19 11:26:26 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-19 11:26:26 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-19 11:26:26 INFO  TC02_Login:24 - Starting test: testLogin with Email: shalaka.dongre@gmail.com and Password: Test123!
+2025-02-19 11:26:26 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-19 11:26:26 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-19 11:26:26 INFO  TC02_Login:46 - Login success status: true
+2025-02-19 11:26:26 INFO  TC02_Login:50 - Login verification passed.
+2025-02-19 11:26:26 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-19 11:26:27 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-19 11:26:27 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-19 11:26:27 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-19 11:26:27 INFO  TC02_Login:24 - Starting test: testLogin with Email: sid@cloudberry.services and Password: Test123
+2025-02-19 11:26:27 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-19 11:26:28 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-19 11:26:28 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-19 11:26:28 INFO  TC02_Login:46 - Login success status: true
+2025-02-19 11:26:28 INFO  TC02_Login:50 - Login verification passed.
+2025-02-19 11:26:28 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-19 11:26:28 INFO  TC02_Login:46 - Login success status: true
+2025-02-19 11:26:28 INFO  TC02_Login:50 - Login verification passed.
+2025-02-19 11:26:29 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-19 11:26:29 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-19 11:26:29 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-19 11:26:29 INFO  BaseClass:136 - Closing browser...
+2025-02-19 11:26:30 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-19 11:26:30 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-19 11:26:30 INFO  BaseClass:136 - Closing browser...
+2025-02-19 11:26:30 INFO  TC02_Login:46 - Login success status: true
+2025-02-19 11:26:30 INFO  TC02_Login:50 - Login verification passed.
+2025-02-19 11:26:30 INFO  BaseClass:139 - Browser closed and WebDriver instance removed.
+2025-02-19 11:26:30 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: chrome
+2025-02-19 11:26:30 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-19 11:26:31 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-19 11:26:31 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-19 11:26:31 INFO  TC02_Login:24 - Starting test: testLogin with Email: otisdog22@yahoo.com and Password: 1234QWERT
+2025-02-19 11:26:31 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-19 11:26:31 INFO  BaseClass:139 - Browser closed and WebDriver instance removed.
+2025-02-19 11:26:31 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: edge
+2025-02-19 11:26:31 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-19 11:26:31 DEBUG BaseClass:116 - WebDriver instance set successfully.
+2025-02-19 11:26:32 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-19 11:26:32 INFO  BaseClass:124 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-19 11:26:32 INFO  TC04_CompletePurchase:23 - Starting test: testCompletePurchase
+2025-02-19 11:26:32 DEBUG TC04_CompletePurchase:31 - Navigating to HomePage and selecting Laptops & Notebooks category.
+2025-02-19 11:26:32 DEBUG BaseClass:116 - WebDriver instance set successfully.
+2025-02-19 11:26:33 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-19 11:26:33 INFO  TC02_Login:46 - Login success status: true
+2025-02-19 11:26:33 INFO  TC02_Login:50 - Login verification passed.
+2025-02-19 11:26:34 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-19 11:26:34 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-19 11:26:34 INFO  TC02_Login:24 - Starting test: testLogin with Email: shalaka.dongre@gmail.com and Password: Test123!
+2025-02-19 11:26:34 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-19 11:26:35 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-19 11:26:35 DEBUG TC04_CompletePurchase:35 - Selecting a product from the category.
+2025-02-19 11:26:35 INFO  BaseClass:124 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-19 11:26:35 INFO  TC04_CompletePurchase:23 - Starting test: testCompletePurchase
+2025-02-19 11:26:35 DEBUG TC04_CompletePurchase:31 - Navigating to HomePage and selecting Laptops & Notebooks category.
+2025-02-19 11:26:36 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-19 11:26:36 INFO  TC02_Login:46 - Login success status: true
+2025-02-19 11:26:36 INFO  TC02_Login:50 - Login verification passed.
+2025-02-19 11:26:36 DEBUG TC04_CompletePurchase:35 - Selecting a product from the category.
+2025-02-19 11:26:36 DEBUG TC04_CompletePurchase:39 - Setting up delivery date and adding product to cart.
+2025-02-19 11:26:36 DEBUG TC04_CompletePurchase:44 - Proceeding to checkout.
+2025-02-19 11:26:37 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-19 11:26:37 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-19 11:26:37 INFO  BaseClass:136 - Closing browser...
+2025-02-19 11:26:37 DEBUG TC04_CompletePurchase:39 - Setting up delivery date and adding product to cart.
+2025-02-19 11:26:38 DEBUG TC04_CompletePurchase:44 - Proceeding to checkout.
+2025-02-19 11:26:38 DEBUG TC04_CompletePurchase:47 - Logging in to complete purchase.
+2025-02-19 11:26:39 DEBUG TC04_CompletePurchase:53 - Completing checkout process.
+2025-02-19 11:26:39 INFO  BaseClass:139 - Browser closed and WebDriver instance removed.
+2025-02-19 11:26:39 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: firefox
+2025-02-19 11:26:39 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-19 11:26:42 DEBUG BaseClass:116 - WebDriver instance set successfully.
+2025-02-19 11:26:45 INFO  BaseClass:124 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-19 11:26:45 INFO  TC04_CompletePurchase:23 - Starting test: testCompletePurchase
+2025-02-19 11:26:45 DEBUG TC04_CompletePurchase:31 - Navigating to HomePage and selecting Laptops & Notebooks category.
+2025-02-19 11:26:46 DEBUG TC04_CompletePurchase:35 - Selecting a product from the category.
+2025-02-19 11:26:47 DEBUG TC04_CompletePurchase:39 - Setting up delivery date and adding product to cart.
+2025-02-19 11:26:47 DEBUG TC04_CompletePurchase:44 - Proceeding to checkout.
+2025-02-19 11:26:48 DEBUG TC04_CompletePurchase:47 - Logging in to complete purchase.
+2025-02-19 11:26:49 DEBUG TC04_CompletePurchase:53 - Completing checkout process.
+2025-02-19 11:27:38 ERROR TC04_CompletePurchase:71 - Unexpected error occurred during test execution: element not interactable
+  (Session info: MicrosoftEdge=133.0.3065.69)
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [bd63d144d663a466add4ce2f5157fa02, clickElement {id=f.9997A46FFFD3A1CFE7AA1BF2FD0CC4B0.d.00AFA08BFFF81804E82DCE222CD0E4CB.e.2912}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 133.0.3065.69, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:55740}, msedge: {msedgedriverVersion: 133.0.3065.69 (c3f010c11f3e..., userDataDir: C:\Users\safin\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.2.90:4444/sess..., se:cdpVersion: 133.0.3065.69, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[RemoteWebDriver: MicrosoftEdge on Windows 11 (bd63d144d663a466add4ce2f5157fa02)] -> xpath: //strong[normalize-space()='Checkout']]
+Session ID: bd63d144d663a466add4ce2f5157fa02
+org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: MicrosoftEdge=133.0.3065.69)
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [bd63d144d663a466add4ce2f5157fa02, clickElement {id=f.9997A46FFFD3A1CFE7AA1BF2FD0CC4B0.d.00AFA08BFFF81804E82DCE222CD0E4CB.e.2912}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 133.0.3065.69, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:55740}, msedge: {msedgedriverVersion: 133.0.3065.69 (c3f010c11f3e..., userDataDir: C:\Users\safin\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.2.90:4444/sess..., se:cdpVersion: 133.0.3065.69, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[RemoteWebDriver: MicrosoftEdge on Windows 11 (bd63d144d663a466add4ce2f5157fa02)] -> xpath: //strong[normalize-space()='Checkout']]
+Session ID: bd63d144d663a466add4ce2f5157fa02
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.TracedCommandExecutor.execute(TracedCommandExecutor.java:53) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:76) ~[selenium-remote-driver-4.28.1.jar:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51) ~[selenium-support-4.28.1.jar:?]
+	at jdk.proxy2/jdk.proxy2.$Proxy27.click(Unknown Source) ~[?:?]
+	at pageObjects.AddToCartPage.goToCheckout(AddToCartPage.java:57) ~[test-classes/:?]
+	at testCases.TC04_CompletePurchase.testCompletePurchase(TC04_CompletePurchase.java:45) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) ~[?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1575) [?:?]
+2025-02-19 11:27:38 WARN  RetryAnalyzer:18 - Retrying test 'testCompletePurchase' (1 of 2)
+2025-02-19 11:27:38 INFO  TC04_CompletePurchase:23 - Starting test: testCompletePurchase
+2025-02-19 11:27:38 DEBUG TC04_CompletePurchase:31 - Navigating to HomePage and selecting Laptops & Notebooks category.
+2025-02-19 11:27:40 DEBUG TC04_CompletePurchase:35 - Selecting a product from the category.
+2025-02-19 11:27:46 DEBUG TC04_CompletePurchase:57 - Verifying order confirmation.
+2025-02-19 11:27:47 INFO  TC04_CompletePurchase:60 - Order confirmation status: true
+2025-02-19 11:27:47 INFO  TC04_CompletePurchase:64 - Order successfully confirmed.
+2025-02-19 11:27:47 INFO  TC04_CompletePurchase:75 - Test execution completed: testCompletePurchase
+2025-02-19 11:27:47 INFO  BaseClass:136 - Closing browser...
+2025-02-19 11:27:48 INFO  BaseClass:139 - Browser closed and WebDriver instance removed.
+2025-02-19 11:27:56 DEBUG TC04_CompletePurchase:57 - Verifying order confirmation.
+2025-02-19 11:27:57 INFO  TC04_CompletePurchase:60 - Order confirmation status: true
+2025-02-19 11:27:57 INFO  TC04_CompletePurchase:64 - Order successfully confirmed.
+2025-02-19 11:27:57 INFO  TC04_CompletePurchase:75 - Test execution completed: testCompletePurchase
+2025-02-19 11:27:57 INFO  BaseClass:136 - Closing browser...
+2025-02-19 11:27:58 INFO  BaseClass:139 - Browser closed and WebDriver instance removed.
+2025-02-19 11:28:40 ERROR TC04_CompletePurchase:71 - Unexpected error occurred during test execution: element not interactable
+  (Session info: MicrosoftEdge=133.0.3065.69)
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [bd63d144d663a466add4ce2f5157fa02, clickElement {id=f.9997A46FFFD3A1CFE7AA1BF2FD0CC4B0.d.E979CE28594EB8653716FCC9F98F705C.e.3273}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 133.0.3065.69, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:55740}, msedge: {msedgedriverVersion: 133.0.3065.69 (c3f010c11f3e..., userDataDir: C:\Users\safin\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.2.90:4444/sess..., se:cdpVersion: 133.0.3065.69, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[RemoteWebDriver: MicrosoftEdge on Windows 11 (bd63d144d663a466add4ce2f5157fa02)] -> xpath: //a[normalize-space()='HP LP3065']]
+Session ID: bd63d144d663a466add4ce2f5157fa02
+org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: MicrosoftEdge=133.0.3065.69)
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [bd63d144d663a466add4ce2f5157fa02, clickElement {id=f.9997A46FFFD3A1CFE7AA1BF2FD0CC4B0.d.E979CE28594EB8653716FCC9F98F705C.e.3273}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 133.0.3065.69, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:55740}, msedge: {msedgedriverVersion: 133.0.3065.69 (c3f010c11f3e..., userDataDir: C:\Users\safin\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.2.90:4444/sess..., se:cdpVersion: 133.0.3065.69, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[RemoteWebDriver: MicrosoftEdge on Windows 11 (bd63d144d663a466add4ce2f5157fa02)] -> xpath: //a[normalize-space()='HP LP3065']]
+Session ID: bd63d144d663a466add4ce2f5157fa02
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.TracedCommandExecutor.execute(TracedCommandExecutor.java:53) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:76) ~[selenium-remote-driver-4.28.1.jar:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51) ~[selenium-support-4.28.1.jar:?]
+	at jdk.proxy2/jdk.proxy2.$Proxy27.click(Unknown Source) ~[?:?]
+	at pageObjects.CategoryPage.selectProduct(CategoryPage.java:17) ~[test-classes/:?]
+	at testCases.TC04_CompletePurchase.testCompletePurchase(TC04_CompletePurchase.java:37) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.retryFailed(TestInvoker.java:269) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:76) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) ~[?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1575) [?:?]
+2025-02-19 11:28:40 WARN  RetryAnalyzer:18 - Retrying test 'testCompletePurchase' (2 of 2)
+2025-02-19 11:28:40 INFO  TC04_CompletePurchase:23 - Starting test: testCompletePurchase
+2025-02-19 11:28:40 DEBUG TC04_CompletePurchase:31 - Navigating to HomePage and selecting Laptops & Notebooks category.
+2025-02-19 11:28:41 DEBUG TC04_CompletePurchase:35 - Selecting a product from the category.
+2025-02-19 11:29:18 DEBUG TC04_CompletePurchase:39 - Setting up delivery date and adding product to cart.
+2025-02-19 11:29:18 ERROR TC04_CompletePurchase:71 - Unexpected error occurred during test execution: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=133.0.3065.69)
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [bd63d144d663a466add4ce2f5157fa02, findElement {value=//input[@id='input-option225'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 133.0.3065.69, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:55740}, msedge: {msedgedriverVersion: 133.0.3065.69 (c3f010c11f3e..., userDataDir: C:\Users\safin\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.2.90:4444/sess..., se:cdpVersion: 133.0.3065.69, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: bd63d144d663a466add4ce2f5157fa02
+org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=133.0.3065.69)
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [bd63d144d663a466add4ce2f5157fa02, findElement {value=//input[@id='input-option225'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 133.0.3065.69, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:55740}, msedge: {msedgedriverVersion: 133.0.3065.69 (c3f010c11f3e..., userDataDir: C:\Users\safin\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.2.90:4444/sess..., se:cdpVersion: 133.0.3065.69, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: bd63d144d663a466add4ce2f5157fa02
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.TracedCommandExecutor.execute(TracedCommandExecutor.java:53) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68) ~[selenium-support-4.28.1.jar:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38) ~[selenium-support-4.28.1.jar:?]
+	at jdk.proxy2/jdk.proxy2.$Proxy27.clear(Unknown Source) ~[?:?]
+	at pageObjects.AddToCartPage.setDeliveryDate(AddToCartPage.java:39) ~[test-classes/:?]
+	at testCases.TC04_CompletePurchase.testCompletePurchase(TC04_CompletePurchase.java:41) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.retryFailed(TestInvoker.java:269) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:76) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) ~[?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1575) [?:?]
+2025-02-19 11:29:18 INFO  BaseClass:136 - Closing browser...
+2025-02-19 11:29:20 INFO  BaseClass:139 - Browser closed and WebDriver instance removed.
+2025-02-19 11:33:14 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\safin\eclipse-workspace\NinjaV6\testng.xml"
+2025-02-19 11:33:14 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: firefox
+2025-02-19 11:33:14 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-19 11:33:14 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: edge
+2025-02-19 11:33:14 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: chrome
+2025-02-19 11:33:14 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-19 11:33:14 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-19 11:33:16 DEBUG BaseClass:116 - WebDriver instance set successfully.
+2025-02-19 11:33:16 DEBUG BaseClass:116 - WebDriver instance set successfully.
+2025-02-19 11:33:19 INFO  BaseClass:124 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-19 11:33:19 INFO  TC01_LaunchApplication:18 - Starting test: testLaunchApplication
+2025-02-19 11:33:19 DEBUG TC01_LaunchApplication:26 - Navigating to HomePage
+2025-02-19 11:33:19 INFO  BaseClass:124 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-19 11:33:19 INFO  TC01_LaunchApplication:18 - Starting test: testLaunchApplication
+2025-02-19 11:33:19 DEBUG TC01_LaunchApplication:26 - Navigating to HomePage
+2025-02-19 11:33:19 DEBUG TC01_LaunchApplication:29 - Verifying homepage confirmation message.
+2025-02-19 11:33:19 DEBUG TC01_LaunchApplication:29 - Verifying homepage confirmation message.
+2025-02-19 11:33:19 INFO  TC01_LaunchApplication:31 - Received homepage confirmation message: Qafox.com
+2025-02-19 11:33:19 INFO  TC01_LaunchApplication:35 - Homepage confirmation message matched expected value.
+2025-02-19 11:33:19 INFO  TC01_LaunchApplication:46 - Test execution completed: testLaunchApplication
+2025-02-19 11:33:19 INFO  BaseClass:136 - Closing browser...
+2025-02-19 11:33:19 INFO  TC01_LaunchApplication:31 - Received homepage confirmation message: Qafox.com
+2025-02-19 11:33:19 INFO  TC01_LaunchApplication:35 - Homepage confirmation message matched expected value.
+2025-02-19 11:33:19 INFO  TC01_LaunchApplication:46 - Test execution completed: testLaunchApplication
+2025-02-19 11:33:19 INFO  BaseClass:136 - Closing browser...
+2025-02-19 11:33:19 INFO  BaseClass:139 - Browser closed and WebDriver instance removed.
+2025-02-19 11:33:19 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: chrome
+2025-02-19 11:33:19 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-19 11:33:19 DEBUG BaseClass:116 - WebDriver instance set successfully.
+2025-02-19 11:33:20 INFO  BaseClass:139 - Browser closed and WebDriver instance removed.
+2025-02-19 11:33:20 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: edge
+2025-02-19 11:33:20 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-19 11:33:21 DEBUG BaseClass:116 - WebDriver instance set successfully.
+2025-02-19 11:33:21 DEBUG BaseClass:116 - WebDriver instance set successfully.
+2025-02-19 11:33:22 INFO  BaseClass:124 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-19 11:33:22 INFO  TC01_LaunchApplication:18 - Starting test: testLaunchApplication
+2025-02-19 11:33:22 DEBUG TC01_LaunchApplication:26 - Navigating to HomePage
+2025-02-19 11:33:22 DEBUG TC01_LaunchApplication:29 - Verifying homepage confirmation message.
+2025-02-19 11:33:22 INFO  TC01_LaunchApplication:31 - Received homepage confirmation message: Qafox.com
+2025-02-19 11:33:22 INFO  TC01_LaunchApplication:35 - Homepage confirmation message matched expected value.
+2025-02-19 11:33:22 INFO  TC01_LaunchApplication:46 - Test execution completed: testLaunchApplication
+2025-02-19 11:33:22 INFO  BaseClass:136 - Closing browser...
+2025-02-19 11:33:23 INFO  BaseClass:124 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-19 11:33:23 INFO  TC03_AddToCart:19 - Starting test: testAddToCart
+2025-02-19 11:33:23 DEBUG TC03_AddToCart:27 - Navigating to HomePage and selecting Laptops & Notebooks category.
+2025-02-19 11:33:24 INFO  BaseClass:139 - Browser closed and WebDriver instance removed.
+2025-02-19 11:33:24 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: firefox
+2025-02-19 11:33:24 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-19 11:33:24 INFO  BaseClass:124 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-19 11:33:24 INFO  TC03_AddToCart:19 - Starting test: testAddToCart
+2025-02-19 11:33:24 DEBUG TC03_AddToCart:27 - Navigating to HomePage and selecting Laptops & Notebooks category.
+2025-02-19 11:33:24 DEBUG TC03_AddToCart:31 - Selecting a product from the category.
+2025-02-19 11:33:25 DEBUG TC03_AddToCart:31 - Selecting a product from the category.
+2025-02-19 11:33:25 DEBUG TC03_AddToCart:35 - Setting up delivery date and adding product to cart.
+2025-02-19 11:33:26 DEBUG TC03_AddToCart:40 - Validating success message.
+2025-02-19 11:33:26 DEBUG TC03_AddToCart:35 - Setting up delivery date and adding product to cart.
+2025-02-19 11:33:26 INFO  TC03_AddToCart:42 - Success message status: true
+2025-02-19 11:33:26 INFO  TC03_AddToCart:46 - Product successfully added to cart.
+2025-02-19 11:33:26 INFO  TC03_AddToCart:57 - Test execution completed: testAddToCart
+2025-02-19 11:33:26 INFO  BaseClass:136 - Closing browser...
+2025-02-19 11:33:26 DEBUG TC03_AddToCart:40 - Validating success message.
+2025-02-19 11:33:27 INFO  BaseClass:139 - Browser closed and WebDriver instance removed.
+2025-02-19 11:33:27 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: chrome
+2025-02-19 11:33:27 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-19 11:33:27 INFO  TC03_AddToCart:42 - Success message status: true
+2025-02-19 11:33:27 INFO  TC03_AddToCart:46 - Product successfully added to cart.
+2025-02-19 11:33:27 INFO  TC03_AddToCart:57 - Test execution completed: testAddToCart
+2025-02-19 11:33:27 INFO  BaseClass:136 - Closing browser...
+2025-02-19 11:33:28 DEBUG BaseClass:116 - WebDriver instance set successfully.
+2025-02-19 11:33:28 DEBUG BaseClass:116 - WebDriver instance set successfully.
+2025-02-19 11:33:28 INFO  BaseClass:139 - Browser closed and WebDriver instance removed.
+2025-02-19 11:33:28 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: edge
+2025-02-19 11:33:28 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-19 11:33:30 DEBUG BaseClass:116 - WebDriver instance set successfully.
+2025-02-19 11:33:30 INFO  BaseClass:124 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-19 11:33:31 INFO  BaseClass:124 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-19 11:33:31 INFO  TC03_AddToCart:19 - Starting test: testAddToCart
+2025-02-19 11:33:31 DEBUG TC03_AddToCart:27 - Navigating to HomePage and selecting Laptops & Notebooks category.
+2025-02-19 11:33:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:33:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:33:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:33:32 DEBUG TC03_AddToCart:31 - Selecting a product from the category.
+2025-02-19 11:33:32 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:33:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:33:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:33:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:33:32 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:33:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:33:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:33:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:33:32 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:33:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:33:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:33:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:33:32 INFO  BaseClass:124 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-19 11:33:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:33:32 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:33:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:33:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:33:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:33:32 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:33:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:33:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:33:32 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:33:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:33:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:33:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:33:32 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:33:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:33:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:33:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:33:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:33:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:33:32 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:33:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:33:32 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:33:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:33:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:33:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:33:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:33:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:33:32 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:33:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:33:33 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:33:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:33:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:33:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:33:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:33:33 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:33:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:33:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:33:33 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:33:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:33:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:33:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:33:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:33:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:33:33 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:33:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:33:33 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:33:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:33:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:33:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:33:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:33:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:33:33 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:33:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:33:33 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:33:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:33:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:33:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:33:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:33:33 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:33:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:33:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:33:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:33:33 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:33:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:33:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:33:33 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:33:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:33:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:33:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:33:33 INFO  TC02_Login:24 - Starting test: testLogin with Email: goodmorning@gmail.com and Password: test@1234
+2025-02-19 11:33:33 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-19 11:33:33 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:33:33 DEBUG TC03_AddToCart:35 - Setting up delivery date and adding product to cart.
+2025-02-19 11:33:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:33:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:33:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:33:33 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:33:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:33:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:33:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:33:33 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:33:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:33:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:33:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:33:33 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:33:33 INFO  TC02_Login:24 - Starting test: testLogin with Email: goodmorning@gmail.com and Password: test@1234
+2025-02-19 11:33:33 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-19 11:33:33 DEBUG TC03_AddToCart:40 - Validating success message.
+2025-02-19 11:33:33 INFO  TC03_AddToCart:42 - Success message status: true
+2025-02-19 11:33:33 INFO  TC03_AddToCart:46 - Product successfully added to cart.
+2025-02-19 11:33:33 INFO  TC03_AddToCart:57 - Test execution completed: testAddToCart
+2025-02-19 11:33:33 INFO  BaseClass:136 - Closing browser...
+2025-02-19 11:33:34 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-19 11:33:34 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-19 11:33:35 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-19 11:33:35 INFO  TC02_Login:46 - Login success status: true
+2025-02-19 11:33:35 INFO  TC02_Login:50 - Login verification passed.
+2025-02-19 11:33:35 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-19 11:33:35 INFO  TC02_Login:46 - Login success status: true
+2025-02-19 11:33:35 INFO  TC02_Login:50 - Login verification passed.
+2025-02-19 11:33:35 INFO  BaseClass:139 - Browser closed and WebDriver instance removed.
+2025-02-19 11:33:35 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: firefox
+2025-02-19 11:33:35 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-19 11:33:36 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-19 11:33:36 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-19 11:33:36 INFO  TC02_Login:24 - Starting test: testLogin with Email: test121@test.com and Password: test123
+2025-02-19 11:33:36 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-19 11:33:37 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-19 11:33:37 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-19 11:33:37 INFO  TC02_Login:24 - Starting test: testLogin with Email: test121@test.com and Password: test123
+2025-02-19 11:33:37 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-19 11:33:37 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-19 11:33:37 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-19 11:33:39 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-19 11:33:39 INFO  TC02_Login:46 - Login success status: true
+2025-02-19 11:33:39 INFO  TC02_Login:50 - Login verification passed.
+2025-02-19 11:33:39 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-19 11:33:39 INFO  TC02_Login:46 - Login success status: true
+2025-02-19 11:33:39 INFO  TC02_Login:50 - Login verification passed.
+2025-02-19 11:33:40 DEBUG BaseClass:116 - WebDriver instance set successfully.
+2025-02-19 11:33:40 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-19 11:33:40 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-19 11:33:40 INFO  TC02_Login:24 - Starting test: testLogin with Email: sid@cloudberry.services and Password: Test123
+2025-02-19 11:33:40 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-19 11:33:41 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-19 11:33:41 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-19 11:33:41 INFO  TC02_Login:24 - Starting test: testLogin with Email: sid@cloudberry.services and Password: Test123
+2025-02-19 11:33:41 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-19 11:33:41 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-19 11:33:41 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-19 11:33:43 INFO  BaseClass:124 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-19 11:33:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:33:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:33:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:33:43 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:33:43 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-19 11:33:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:33:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:33:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:33:43 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:33:43 INFO  TC02_Login:46 - Login success status: true
+2025-02-19 11:33:43 INFO  TC02_Login:50 - Login verification passed.
+2025-02-19 11:33:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:33:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:33:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:33:43 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:33:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:33:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:33:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:33:43 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:33:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:33:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:33:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:33:43 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:33:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:33:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:33:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:33:43 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:33:43 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-19 11:33:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:33:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:33:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:33:43 INFO  TC02_Login:46 - Login success status: true
+2025-02-19 11:33:43 INFO  TC02_Login:50 - Login verification passed.
+2025-02-19 11:33:43 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:33:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:33:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:33:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:33:43 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:33:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:33:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:33:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:33:43 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:33:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:33:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:33:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:33:43 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:33:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:33:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:33:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:33:43 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:33:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 11:33:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 11:33:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-19 11:33:43 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-19 11:33:43 INFO  TC02_Login:24 - Starting test: testLogin with Email: goodmorning@gmail.com and Password: test@1234
+2025-02-19 11:33:43 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-19 11:33:44 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-19 11:33:44 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-19 11:33:44 INFO  TC02_Login:24 - Starting test: testLogin with Email: otisdog22@yahoo.com and Password: 1234QWERT
+2025-02-19 11:33:44 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-19 11:33:44 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-19 11:33:44 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-19 11:33:44 INFO  TC02_Login:24 - Starting test: testLogin with Email: otisdog22@yahoo.com and Password: 1234QWERT
+2025-02-19 11:33:44 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-19 11:33:44 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-19 11:33:45 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-19 11:33:45 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-19 11:33:46 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-19 11:33:46 INFO  TC02_Login:46 - Login success status: true
+2025-02-19 11:33:46 INFO  TC02_Login:50 - Login verification passed.
+2025-02-19 11:33:46 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-19 11:33:47 INFO  TC02_Login:46 - Login success status: true
+2025-02-19 11:33:47 INFO  TC02_Login:50 - Login verification passed.
+2025-02-19 11:33:47 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-19 11:33:47 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-19 11:33:47 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-19 11:33:47 INFO  TC02_Login:46 - Login success status: true
+2025-02-19 11:33:47 INFO  TC02_Login:50 - Login verification passed.
+2025-02-19 11:33:47 INFO  TC02_Login:24 - Starting test: testLogin with Email: test121@test.com and Password: test123
+2025-02-19 11:33:47 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-19 11:33:48 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-19 11:33:48 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-19 11:33:48 INFO  TC02_Login:24 - Starting test: testLogin with Email: shalaka.dongre@gmail.com and Password: Test123!
+2025-02-19 11:33:48 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-19 11:33:48 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-19 11:33:48 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-19 11:33:48 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-19 11:33:48 INFO  TC02_Login:24 - Starting test: testLogin with Email: shalaka.dongre@gmail.com and Password: Test123!
+2025-02-19 11:33:48 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-19 11:33:49 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-19 11:33:49 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-19 11:33:49 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-19 11:33:49 INFO  TC02_Login:46 - Login success status: true
+2025-02-19 11:33:49 INFO  TC02_Login:50 - Login verification passed.
+2025-02-19 11:33:50 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-19 11:33:50 INFO  TC02_Login:46 - Login success status: true
+2025-02-19 11:33:50 INFO  TC02_Login:50 - Login verification passed.
+2025-02-19 11:33:51 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-19 11:33:51 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-19 11:33:51 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-19 11:33:51 INFO  TC02_Login:24 - Starting test: testLogin with Email: sid@cloudberry.services and Password: Test123
+2025-02-19 11:33:51 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-19 11:33:51 INFO  TC02_Login:46 - Login success status: true
+2025-02-19 11:33:51 INFO  TC02_Login:50 - Login verification passed.
+2025-02-19 11:33:51 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-19 11:33:52 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-19 11:33:52 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-19 11:33:52 INFO  BaseClass:136 - Closing browser...
+2025-02-19 11:33:52 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-19 11:33:52 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-19 11:33:52 INFO  BaseClass:136 - Closing browser...
+2025-02-19 11:33:52 INFO  BaseClass:139 - Browser closed and WebDriver instance removed.
+2025-02-19 11:33:52 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: chrome
+2025-02-19 11:33:52 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-19 11:33:53 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-19 11:33:53 INFO  TC02_Login:46 - Login success status: true
+2025-02-19 11:33:53 INFO  TC02_Login:50 - Login verification passed.
+2025-02-19 11:33:53 DEBUG BaseClass:116 - WebDriver instance set successfully.
+2025-02-19 11:33:53 INFO  BaseClass:139 - Browser closed and WebDriver instance removed.
+2025-02-19 11:33:53 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: edge
+2025-02-19 11:33:53 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-19 11:33:54 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-19 11:33:54 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-19 11:33:54 INFO  TC02_Login:24 - Starting test: testLogin with Email: otisdog22@yahoo.com and Password: 1234QWERT
+2025-02-19 11:33:54 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-19 11:33:55 DEBUG BaseClass:116 - WebDriver instance set successfully.
+2025-02-19 11:33:55 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-19 11:33:56 INFO  BaseClass:124 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-19 11:33:56 INFO  TC04_CompletePurchase:23 - Starting test: testCompletePurchase
+2025-02-19 11:33:56 DEBUG TC04_CompletePurchase:31 - Navigating to HomePage and selecting Laptops & Notebooks category.
+2025-02-19 11:33:56 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-19 11:33:56 INFO  TC02_Login:46 - Login success status: true
+2025-02-19 11:33:56 INFO  TC02_Login:50 - Login verification passed.
+2025-02-19 11:33:57 DEBUG TC04_CompletePurchase:35 - Selecting a product from the category.
+2025-02-19 11:33:57 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-19 11:33:57 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-19 11:33:57 INFO  TC02_Login:24 - Starting test: testLogin with Email: shalaka.dongre@gmail.com and Password: Test123!
+2025-02-19 11:33:57 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-19 11:33:57 INFO  BaseClass:124 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-19 11:33:57 INFO  TC04_CompletePurchase:23 - Starting test: testCompletePurchase
+2025-02-19 11:33:57 DEBUG TC04_CompletePurchase:31 - Navigating to HomePage and selecting Laptops & Notebooks category.
+2025-02-19 11:33:58 DEBUG TC04_CompletePurchase:39 - Setting up delivery date and adding product to cart.
+2025-02-19 11:33:58 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-19 11:33:58 DEBUG TC04_CompletePurchase:44 - Proceeding to checkout.
+2025-02-19 11:33:58 DEBUG TC04_CompletePurchase:35 - Selecting a product from the category.
+2025-02-19 11:33:59 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-19 11:33:59 INFO  TC02_Login:46 - Login success status: true
+2025-02-19 11:33:59 INFO  TC02_Login:50 - Login verification passed.
+2025-02-19 11:33:59 DEBUG TC04_CompletePurchase:39 - Setting up delivery date and adding product to cart.
+2025-02-19 11:34:00 DEBUG TC04_CompletePurchase:47 - Logging in to complete purchase.
+2025-02-19 11:34:00 DEBUG TC04_CompletePurchase:44 - Proceeding to checkout.
+2025-02-19 11:34:00 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-19 11:34:00 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-19 11:34:00 INFO  BaseClass:136 - Closing browser...
+2025-02-19 11:34:01 DEBUG TC04_CompletePurchase:53 - Completing checkout process.
+2025-02-19 11:34:02 INFO  BaseClass:139 - Browser closed and WebDriver instance removed.
+2025-02-19 11:34:02 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: firefox
+2025-02-19 11:34:02 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-19 11:34:06 DEBUG BaseClass:116 - WebDriver instance set successfully.
+2025-02-19 11:34:08 INFO  BaseClass:124 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-19 11:34:08 INFO  TC04_CompletePurchase:23 - Starting test: testCompletePurchase
+2025-02-19 11:34:08 DEBUG TC04_CompletePurchase:31 - Navigating to HomePage and selecting Laptops & Notebooks category.
+2025-02-19 11:34:09 DEBUG TC04_CompletePurchase:35 - Selecting a product from the category.
+2025-02-19 11:34:10 DEBUG TC04_CompletePurchase:39 - Setting up delivery date and adding product to cart.
+2025-02-19 11:34:11 DEBUG TC04_CompletePurchase:44 - Proceeding to checkout.
+2025-02-19 11:34:12 DEBUG TC04_CompletePurchase:47 - Logging in to complete purchase.
+2025-02-19 11:34:12 DEBUG TC04_CompletePurchase:53 - Completing checkout process.
+2025-02-19 11:35:01 ERROR TC04_CompletePurchase:71 - Unexpected error occurred during test execution: element not interactable
+  (Session info: MicrosoftEdge=133.0.3065.69)
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [ccc64bfbfb591ce43a5a06e2095af5eb, clickElement {id=f.9900796547606AAF45365CAA9D618C44.d.26B76ED36D680CCEFF9AD2FE1030A34A.e.2891}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 133.0.3065.69, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:56157}, msedge: {msedgedriverVersion: 133.0.3065.69 (c3f010c11f3e..., userDataDir: C:\Users\safin\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.2.90:4444/sess..., se:cdpVersion: 133.0.3065.69, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[RemoteWebDriver: MicrosoftEdge on Windows 11 (ccc64bfbfb591ce43a5a06e2095af5eb)] -> xpath: //strong[normalize-space()='Checkout']]
+Session ID: ccc64bfbfb591ce43a5a06e2095af5eb
+org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: MicrosoftEdge=133.0.3065.69)
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [ccc64bfbfb591ce43a5a06e2095af5eb, clickElement {id=f.9900796547606AAF45365CAA9D618C44.d.26B76ED36D680CCEFF9AD2FE1030A34A.e.2891}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 133.0.3065.69, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:56157}, msedge: {msedgedriverVersion: 133.0.3065.69 (c3f010c11f3e..., userDataDir: C:\Users\safin\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.2.90:4444/sess..., se:cdpVersion: 133.0.3065.69, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[RemoteWebDriver: MicrosoftEdge on Windows 11 (ccc64bfbfb591ce43a5a06e2095af5eb)] -> xpath: //strong[normalize-space()='Checkout']]
+Session ID: ccc64bfbfb591ce43a5a06e2095af5eb
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.TracedCommandExecutor.execute(TracedCommandExecutor.java:53) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:76) ~[selenium-remote-driver-4.28.1.jar:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51) ~[selenium-support-4.28.1.jar:?]
+	at jdk.proxy2/jdk.proxy2.$Proxy27.click(Unknown Source) ~[?:?]
+	at pageObjects.AddToCartPage.goToCheckout(AddToCartPage.java:57) ~[test-classes/:?]
+	at testCases.TC04_CompletePurchase.testCompletePurchase(TC04_CompletePurchase.java:45) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) ~[?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1575) [?:?]
+2025-02-19 11:35:01 WARN  RetryAnalyzer:18 - Retrying test 'testCompletePurchase' (1 of 2)
+2025-02-19 11:35:01 INFO  TC04_CompletePurchase:23 - Starting test: testCompletePurchase
+2025-02-19 11:35:01 DEBUG TC04_CompletePurchase:31 - Navigating to HomePage and selecting Laptops & Notebooks category.
+2025-02-19 11:35:02 DEBUG TC04_CompletePurchase:35 - Selecting a product from the category.
+2025-02-19 11:35:08 DEBUG TC04_CompletePurchase:57 - Verifying order confirmation.
+2025-02-19 11:35:09 INFO  TC04_CompletePurchase:60 - Order confirmation status: true
+2025-02-19 11:35:09 INFO  TC04_CompletePurchase:64 - Order successfully confirmed.
+2025-02-19 11:35:09 INFO  TC04_CompletePurchase:75 - Test execution completed: testCompletePurchase
+2025-02-19 11:35:09 INFO  BaseClass:136 - Closing browser...
+2025-02-19 11:35:10 INFO  BaseClass:139 - Browser closed and WebDriver instance removed.
+2025-02-19 11:35:19 DEBUG TC04_CompletePurchase:57 - Verifying order confirmation.
+2025-02-19 11:35:20 INFO  TC04_CompletePurchase:60 - Order confirmation status: true
+2025-02-19 11:35:20 INFO  TC04_CompletePurchase:64 - Order successfully confirmed.
+2025-02-19 11:35:20 INFO  TC04_CompletePurchase:75 - Test execution completed: testCompletePurchase
+2025-02-19 11:35:20 INFO  BaseClass:136 - Closing browser...
+2025-02-19 11:35:21 INFO  BaseClass:139 - Browser closed and WebDriver instance removed.
+2025-02-19 11:36:03 ERROR TC04_CompletePurchase:71 - Unexpected error occurred during test execution: element not interactable
+  (Session info: MicrosoftEdge=133.0.3065.69)
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [ccc64bfbfb591ce43a5a06e2095af5eb, clickElement {id=f.9900796547606AAF45365CAA9D618C44.d.6B3EB3C468F15A4E958F10A22F0AF096.e.3251}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 133.0.3065.69, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:56157}, msedge: {msedgedriverVersion: 133.0.3065.69 (c3f010c11f3e..., userDataDir: C:\Users\safin\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.2.90:4444/sess..., se:cdpVersion: 133.0.3065.69, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[RemoteWebDriver: MicrosoftEdge on Windows 11 (ccc64bfbfb591ce43a5a06e2095af5eb)] -> xpath: //a[normalize-space()='HP LP3065']]
+Session ID: ccc64bfbfb591ce43a5a06e2095af5eb
+org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: MicrosoftEdge=133.0.3065.69)
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [ccc64bfbfb591ce43a5a06e2095af5eb, clickElement {id=f.9900796547606AAF45365CAA9D618C44.d.6B3EB3C468F15A4E958F10A22F0AF096.e.3251}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 133.0.3065.69, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:56157}, msedge: {msedgedriverVersion: 133.0.3065.69 (c3f010c11f3e..., userDataDir: C:\Users\safin\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.2.90:4444/sess..., se:cdpVersion: 133.0.3065.69, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[RemoteWebDriver: MicrosoftEdge on Windows 11 (ccc64bfbfb591ce43a5a06e2095af5eb)] -> xpath: //a[normalize-space()='HP LP3065']]
+Session ID: ccc64bfbfb591ce43a5a06e2095af5eb
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.TracedCommandExecutor.execute(TracedCommandExecutor.java:53) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:76) ~[selenium-remote-driver-4.28.1.jar:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51) ~[selenium-support-4.28.1.jar:?]
+	at jdk.proxy2/jdk.proxy2.$Proxy27.click(Unknown Source) ~[?:?]
+	at pageObjects.CategoryPage.selectProduct(CategoryPage.java:17) ~[test-classes/:?]
+	at testCases.TC04_CompletePurchase.testCompletePurchase(TC04_CompletePurchase.java:37) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.retryFailed(TestInvoker.java:269) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:76) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) ~[?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1575) [?:?]
+2025-02-19 11:36:03 WARN  RetryAnalyzer:18 - Retrying test 'testCompletePurchase' (2 of 2)
+2025-02-19 11:36:03 INFO  TC04_CompletePurchase:23 - Starting test: testCompletePurchase
+2025-02-19 11:36:03 DEBUG TC04_CompletePurchase:31 - Navigating to HomePage and selecting Laptops & Notebooks category.
+2025-02-19 11:36:04 DEBUG TC04_CompletePurchase:35 - Selecting a product from the category.
+2025-02-19 11:36:27 DEBUG TC04_CompletePurchase:39 - Setting up delivery date and adding product to cart.
+2025-02-19 11:36:27 ERROR TC04_CompletePurchase:71 - Unexpected error occurred during test execution: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=133.0.3065.69)
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [ccc64bfbfb591ce43a5a06e2095af5eb, findElement {value=//input[@id='input-option225'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 133.0.3065.69, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:56157}, msedge: {msedgedriverVersion: 133.0.3065.69 (c3f010c11f3e..., userDataDir: C:\Users\safin\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.2.90:4444/sess..., se:cdpVersion: 133.0.3065.69, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ccc64bfbfb591ce43a5a06e2095af5eb
+org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=133.0.3065.69)
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [ccc64bfbfb591ce43a5a06e2095af5eb, findElement {value=//input[@id='input-option225'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 133.0.3065.69, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:56157}, msedge: {msedgedriverVersion: 133.0.3065.69 (c3f010c11f3e..., userDataDir: C:\Users\safin\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.2.90:4444/sess..., se:cdpVersion: 133.0.3065.69, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ccc64bfbfb591ce43a5a06e2095af5eb
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.TracedCommandExecutor.execute(TracedCommandExecutor.java:53) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68) ~[selenium-support-4.28.1.jar:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38) ~[selenium-support-4.28.1.jar:?]
+	at jdk.proxy2/jdk.proxy2.$Proxy27.clear(Unknown Source) ~[?:?]
+	at pageObjects.AddToCartPage.setDeliveryDate(AddToCartPage.java:39) ~[test-classes/:?]
+	at testCases.TC04_CompletePurchase.testCompletePurchase(TC04_CompletePurchase.java:41) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.retryFailed(TestInvoker.java:269) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:76) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) ~[?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1575) [?:?]
+2025-02-19 11:36:27 INFO  BaseClass:136 - Closing browser...
+2025-02-19 11:36:29 INFO  BaseClass:139 - Browser closed and WebDriver instance removed.
